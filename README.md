@@ -11,7 +11,7 @@
 
 ### Foto de mi cara
 
-![Imagen de una rana](/github-light/assets/images/frog100x100.jpg)
+![Imagen de una rana](/mono.jpg)
 
 ### Fuentes
 [Aprende Markdown](https://guilleatm.github.io/github-light/markdown-syntax.html)
