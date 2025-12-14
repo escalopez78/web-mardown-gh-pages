@@ -11,7 +11,7 @@
 
 ### Foto de mi cara
 
-![Imagen de mi cara](https://es.wikipedia.org/wiki/Macaca_mulatta#/media/Archivo:Macaca_mulatta_in_Guiyang.jpg)
+![Imagen de una rana](/github-light/assets/images/frog100x100.jpg)
 
 ### Fuentes
 [Aprende Markdown](https://guilleatm.github.io/github-light/markdown-syntax.html)
